@@ -1,0 +1,63 @@
+color & font ------------
+ptsans bold, regular
+color  
+#010101
+font color 
+#898989
+#fcdb00
+
+section padding -----------
+	xxl/xl/lg - 120/100
+	md	 	 - 80
+	sm/col	  - 50-70
+
+				xxl/xl/lg		md		sm/col
+header t-b 		20px			20px
+
+
+***** media query ****
+header--------------
+					xxl/xl/lg		md		sm/col
+menu ul li a--
+padding-top							10px	10px
+font-size									20px
+
+slider--------------
+					xxl/xl/lg		md		sm/col
+slider					p-b-100px	100px	60px
+c_ind					b (-85px;	-85px	-60px
+.c_ind [data-bs-target]	w-15px		15px	13px
+						h-15px		15px 	13px
+s_text				
+	m-t 				65px		65px	 0
+s_text h1			
+	f-s 				32px 		32px	25px
+s_text h2
+	m-tb				20px		20px	10px
+	f-s 				20px		20px	18px
+s_text p 			
+	m-b 				35px		35px	15px
+s_icon ul li 		
+	m-r 				30px		30px	20px
+s_icon ul li i 		
+	f-s 				42px		42px	35px
+
+feature-------------
+padding 			t-b 100/120		80/100 	50/70
+h1 					mb-32px			32px	25px
+					f-s 32px 		32px	25px
+p 					f-s 20px		20px	17px
+					l-h 25px		25px 	22px
+
+f_item
+	m-t 			70px			50px	30px
+f_icon i 
+	m-b 									10px
+font-size
+	i 				50px			50px	35px
+	h2				22px			22px	20px
+	p 				16px			16px 	16px
+
+contact-----------
+padding 			
+	t/b 			
